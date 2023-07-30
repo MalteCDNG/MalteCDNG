@@ -19,5 +19,5 @@
 
   <p align="center">
     <a href="mailto:malte@ehmencloud.de" alt="Email me"><img src="assets/svg/mail.svg"></a>
-    <a href="https://ehmencloud.de/" target="_blank" alt="My Portfolio"><img src="assets/svg/external.svg" /></a>
+    <a href="https://ehmencloud.de/" alt="My Portfolio"><img src="assets/svg/external.svg" /></a>
 </p>
