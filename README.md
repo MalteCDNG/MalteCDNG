@@ -7,8 +7,6 @@
 - 🤔 I’m looking for help in **keeping my s\*\*\* together**
 - 💬 Ask me **something interesting**
 - 📫 How to reach me: **Anywhere you find me** 😉
-- 😄 Pronouns: **he**/**him**
-- ⚡ Fun fact: **I like my politics like my APIs: conservative**
 
   <br>
 
