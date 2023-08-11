@@ -8,9 +8,6 @@
 - 💬 Ask me **something interesting**
 - 📫 How to reach me: **Anywhere you find me** 😉
 
-  <br>
-  <br>
-
 ---
 
 <p align="center">
