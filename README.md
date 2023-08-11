@@ -2,6 +2,7 @@
 
 <img align="right" height="250" width="375" alt="GIF" src="assets/gifs/coder.gif" />
 <br>
+<br>
 
 - 🌱 Currently learning **about life**
 - 👯 I’m looking to collaborate on **anything that excites me**
