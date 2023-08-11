@@ -1,6 +1,6 @@
 # Hey, I'm Malte <img src="assets/gifs/Hi.gif" width="40px" height="40px">
 
-<img align="right" height="250" width="375" alt="GIF" src="assets/gifs/coder.gif" />
+<img align="right" width="375" alt="GIF" src="assets/gifs/coder.gif" />
 <br>
 
 - Test
