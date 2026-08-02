@@ -12,19 +12,11 @@ I care about the complete path from idea to running system: a clear interface, a
 
 [Explore my repositories →](https://github.com/MalteCDNG?tab=repositories)
 
-## Featured build
+## What I build
 
-### [BBS2-Hanken — climate-aware ventilation](https://github.com/MalteCDNG/BBS2-Hanken)
-
-An end-to-end platform that monitors indoor and outdoor climate data, calculates dew points, visualizes historical readings, and controls ventilation hardware.
-
-- **Observe:** live temperature and humidity, calculated dew points, and historical charts
-- **Control:** fan status, manual overrides, protected settings, and sensor configuration
-- **Operate:** a Docker Compose stack with a FastAPI backend, WebSocket updates, RavenDB, and Raspberry Pi GPIO integration
-
-`React` · `TypeScript` · `Vite` · `FastAPI` · `Python` · `WebSockets` · `Docker` · `Raspberry Pi` · `RavenDB`
-
-[View the architecture and setup →](https://github.com/MalteCDNG/BBS2-Hanken#readme)
+- **Web interfaces** that make complex workflows feel simple
+- **APIs and real-time services** with clear boundaries and predictable behavior
+- **Connected systems** that bridge software, infrastructure, and physical hardware
 
 ## Selected toolbox
 
