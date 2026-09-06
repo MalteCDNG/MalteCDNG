@@ -1,7 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
-  <img alt="Malte — full-stack developer building web interfaces, APIs, and connected systems" src="./assets/profile-header-light.svg" width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-header-dark.svg">
+  <img alt="Malte — full-stack developer building web interfaces, APIs, and connected systems" src="./assets/profile-header-retro.gif" width="100%">
 </picture>
 
 # Hi, I'm Malte 👋
