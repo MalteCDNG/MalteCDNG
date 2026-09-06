@@ -4,31 +4,31 @@
   <img alt="Malte — full-stack developer building web interfaces, APIs, and connected systems" src="./assets/profile-header-light.svg" width="100%">
 </picture>
 
-# Hi, I'm Malte.
+# Hi, I'm Malte 👋
 
-I build practical software across the whole stack — from **React interfaces** and **real-time FastAPI services** to **Docker deployments** and **Raspberry Pi hardware**.
+**I build web applications and connect them to the systems behind them.**
 
-I care about the complete path from idea to running system: a clear interface, an explicit API, and an operational setup that remains understandable after launch.
+My work spans React frontends, Python APIs, and Linux deployments — sometimes reaching beyond the browser to a Raspberry Pi. I enjoy bringing those pieces together: an interface that's easy to use, a service with clear behavior, and a setup I can understand and maintain.
 
-[Explore my repositories →](https://github.com/MalteCDNG?tab=repositories)
+## What I work on
 
-## What I build
+- **Frontend development** — building web interfaces with React and TypeScript, including charts and data visualization.
+- **Backend & real-time communication** — developing FastAPI services, REST APIs, and WebSocket connections.
+- **Hardware & deployment** — connecting software to Raspberry Pi hardware and running applications with Docker on Linux.
 
-- **Web interfaces** that make complex workflows feel simple
-- **APIs and real-time services** with clear boundaries and predictable behavior
-- **Connected systems** that bridge software, infrastructure, and physical hardware
+## My toolbox
 
-## Selected toolbox
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | React · TypeScript · Vite · Mantine · Chart.js |
+| **Backend** | Python · FastAPI · REST · WebSockets · JWT |
+| **Data** | RavenDB · SQLite |
+| **Infrastructure & hardware** | Docker · Linux · Raspberry Pi · GPIO |
 
-**Interfaces**  
-React · TypeScript · Vite · Mantine · Chart.js
+## How I approach a project
 
-**Services**  
-Python · FastAPI · REST APIs · WebSockets · JWT
+I like working across the full path from the first screen to the running system. That means thinking about how the interface communicates with the API, how data moves through the application, and how everything will run after deployment.
 
-**Systems & data**  
-Docker · Linux · Raspberry Pi · GPIO · RavenDB · SQLite
+My focus is practical: solve the problem, keep the moving parts understandable, and make the result useful.
 
----
-
-<sub>Useful software. Clear interfaces. Systems that are built to run.</sub>
+[**Explore my repositories →**](https://github.com/MalteCDNG?tab=repositories)
